@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LiveProof-SampleApp</string>
+    <string name="finish_button">Finish</string>
+    <string name="retry_button">Retry</string>
+    <string name="close_button">Close</string>
+    <string name="next_button">Next</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_first_title">Once you press recording, please move your head as shown below</string>
+
+    <string name="onboarding_second_title">You’ll hear some music as you take a selfie</string>
+    <string name="onboarding_second_subtitle">It’s like birds chirping</string>
+
+    <string name="loading">Loading…</string>
+    <string name="face_lost_message">Please keep face in the frame</string>
+    <string name="face_tilted_message">Please keep your head straight. Do not tilt you face.</string>
+    <string name="error_camera_config">ERROR: No suitable camera settings found</string>
+    <string name="warning_not_optimized">LiveProof\'s machine learning model isn\'t optimized for this device yet. Results may not be accurate.</string>
+
+    <string name="operation_in_progress">Processing…</string>
+    <string name="operation_success">COMPLETE</string>
+    <string name="operation_fail">Error occurred\n\n %s</string>
+
+    <string name="score">Score: %1$s</string>
+    <string name="result">Result: %1$s</string>
+</resources>
